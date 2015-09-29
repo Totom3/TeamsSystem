@@ -1,0 +1,10 @@
+name: TeamSystem
+author: Totom3
+description: A basic Teams API.
+version: 1.0
+main: io.github.totom3.teamsystem.Main
+
+commands:
+    infected:
+        description: Main command for Infected Demo gamemode.
+        usage: /infected join-s [player] OR join-z [player] OR info OR info->c
